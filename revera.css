@@ -1,0 +1,175 @@
+html {
+    font-family: sans-serif;
+}
+
+.navbar-custom { 
+    background-color: white; 
+    margin-top: 82px;
+    margin-bottom: 9px;
+} 
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: center;
+}
+
+.navbar-nav li{
+    font-size: 15px;
+}
+.navbar-brand {
+  
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.home {
+    color:#ED564B !important;
+}
+
+.grid-image {
+    background: url("../lab-bootstrap-cloning-revera/starter-code/img/overlay.png");
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+ 
+}
+
+.carousel-item img{
+    filter: grayscale(100%);
+}
+    
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 100px;
+    width: 50px;
+    background-color: #ED564B;
+    background-size: 100%, 100%;
+}
+
+.readmore {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    border: 1px solid white;
+    padding: 4px 30px;
+    font-weight: bold;
+}
+
+#web-design {
+    background-color: #ED564B;
+    padding: 56px;
+}
+
+#web-design h3 {
+    color: white;
+    text-align: center;
+}
+
+#web-design p {
+    color: white;
+    text-align: center;
+    font-size: smaller;
+}
+
+.projects h1 {
+    font-size: 26px;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 52px;
+}
+
+
+.projects h2 {
+    font-size: 13px;
+    margin-left: 60px;
+    font-weight: bold;
+    color: gray
+}
+
+.projects hr {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    width: 1139px;
+}
+
+#card-images {
+    margin: auto 44px;
+}
+
+#card-images .card {
+    border: none;
+    font-size: 13px;
+    text-align: center;
+}
+
+.card-text .header {
+    font-size: 40px;
+    width: 100%;
+}
+
+#card-images h5{
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+#card-images h6{
+    font-weight: bold;
+    font-size: 12px;
+    color: gray;
+}
+
+#card-images span{
+
+    color: tomato;
+}
+
+.big-red{
+    border: 3px solid tomato;
+    margin: 0;
+}
+
+#finale{
+    background-color:rgb(61, 60, 60);
+    padding: 43px;
+   
+}
+
+#finale  h5{
+    color: white;
+}
+
+#finale a, p{
+    color:gray;
+    font-size: 14px;
+}
+
+#finale a{
+    border-bottom: 1px dotted gray;
+    padding-bottom: 3px;
+}
+
+#finale p {
+    margin-top: 34px;
+}
+
+.footer {
+    background-color: rgb(31, 30, 30);
+}
+
+.footer p {
+    color: white;
+    font-size: 11px;
+    padding: 13px;
+}
+
+#web-design a{
+    color:#ED564B;
+}
+#web-design a:hover{
+    color:black;
+    text-decoration: none;
+}
+
+.carousel-inner p {
+    color: white;
+}
